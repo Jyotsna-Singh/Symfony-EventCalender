@@ -1,0 +1,37 @@
+AppBundle\Entity\Events:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\EventsRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        details:
+            type: string
+            length: 255
+        day:
+            type: datetimetz
+        streetAddress:
+            type: string
+            length: 255
+            column: street_address
+        city:
+            type: string
+            length: 255
+        zipcode:
+            type: string
+            length: 255
+        createDate:
+            type: datetimetz
+            column: create_date
+    manyToOne:
+        category:
+            targetEntity: Category
+            inversedBy: events
+    lifecycleCallbacks: {  }

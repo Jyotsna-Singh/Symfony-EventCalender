@@ -1,0 +1,31 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+category_list:
+    path:      /categories
+    defaults:  { _controller: AppBundle:Category:index }
+category_create:
+    path:      /category/create
+    defaults:  { _controller: AppBundle:Category:create }
+category_edit:
+    path:      /category/edit/{id}
+    defaults:  { _controller: AppBundle:Category:edit }
+category_delete:
+    path:      /category/delete/{id}
+    defaults:  { _controller: AppBundle:Category:delete }    
+
+
+event_list:
+    path:      /events
+    defaults:  { _controller: AppBundle:Event:index }
+event_create:
+    path:      /event/create
+    defaults:  { _controller: AppBundle:Event:create }
+event_edit:
+    path:      /event/edit/{id}
+    defaults:  { _controller: AppBundle:Event:edit }
+event_delete:
+    path:      /event/delete/{id}
+    defaults:  { _controller: AppBundle:Event:delete }    
+
