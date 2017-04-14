@@ -1,3 +1,43 @@
+# Symfony EventCalender
+
+**Event Calender** is a simple Event listing calender Application built with Symfony. Users can add,view, edit and delete Events and Categories.
+
+* Features/Technologies: 
+  * Symfony 3
+  * MVC, PHP OOP, PHPMyAdmin
+  * MySQL CRUD, Superglobals (GET, POST)
+
+## Version
+1.0.0
+
+## Live Demo
+ [EventCalender](http://jyotsnasingh.com/projects/Symfony/EventCalender/)
+
+
+## Usage
+
+**Home** | **View Events**
+--- | ---
+Home Page | View Events
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-events.PNG)
+
+**Add Events** | **Edit Events**
+--- | --- 
+Add Events | Edit Events  
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-event.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/edit-event.PNG) 
+
+**View Categories** | **Add/Edit Categories**
+--- | --- 
+View Categories | Add/Edit Categories  
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-categories.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-category.PNG) 
+
+## Vendors
+Symfony - [http://symfony.com/](http://symfony.com/)  
+ 
+
+## License
+MIT License
+
 Symfony Standard Edition
 ========================
 
