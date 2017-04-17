@@ -10,8 +10,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [EventCalender](http://jyotsnasingh.com/projects/Symfony/EventCalender/)
+## Live Demo - EventCalender
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/Symfony/EventCalender/)
 
 
 ## Usage
