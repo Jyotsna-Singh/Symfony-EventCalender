@@ -16,20 +16,30 @@
 
 ## Usage
 
-**Home** | **View Events**
---- | ---
-Home Page | View Events
-![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-events.PNG)
+**Home** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/home.PNG "Home")  |  
 
-**Add Events** | **Edit Events**
---- | --- 
-Add Events | Edit Events  
-![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-event.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/edit-event.PNG) 
+**View Events** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-events.PNG "View Events")  |  
 
-**View Categories** | **Add/Edit Categories**
---- | --- 
-View Categories | Add/Edit Categories  
-![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-categories.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-category.PNG) 
+**Add Event** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-event.PNG "Add Event")  |  
+
+**Edit Event** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/edit-event.PNG "Edit Event")  |  
+
+**View Categories** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/view-categories.PNG "View Categories")  |  
+
+**Add Category** |  
+--- | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/add-category.PNG "Add Category")  |  
+
 
 ## Vendors
 Symfony - [http://symfony.com/](http://symfony.com/)  
