@@ -1,7 +1,7 @@
 # Symfony EventCalender
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Symfony-EventCalender/upload/master/web/img/demo.PNG">
+  <img src="https://github.com/Jyotsna-Singh/Symfony-EventCalender/blob/master/web/img/demo.PNG">
 </p>
 
 **Event Calender** is a simple Event listing calender Application built with Symfony. Users can add,view, edit and delete Events and Categories.
